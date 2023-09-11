@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/CLIPCRAZE/static/css/main.79de36a6.css",
+    "main.js": "/CLIPCRAZE/static/js/main.eea17dec.js",
+    "static/media/video1.mp4": "/CLIPCRAZE/static/media/video1.16ec0d9209f4b15bab29.mp4",
+    "static/media/video3.mp4": "/CLIPCRAZE/static/media/video3.22296683bb25feddf633.mp4",
+    "static/media/imgg3.jpg": "/CLIPCRAZE/static/media/imgg3.d9833545287f7dc3f186.jpg",
+    "static/media/imgg1.jpg": "/CLIPCRAZE/static/media/imgg1.f3d78ddb0e62abf5fd34.jpg",
+    "static/media/video2.mp4": "/CLIPCRAZE/static/media/video2.166e93ffdba47bd00c1b.mp4",
+    "static/media/imgg2.jpg": "/CLIPCRAZE/static/media/imgg2.61e01a98ef8e035edc97.jpg",
+    "static/media/imgg4.jpg": "/CLIPCRAZE/static/media/imgg4.075f7fe426892eb71b12.jpg",
+    "static/media/servicepng.png": "/CLIPCRAZE/static/media/servicepng.3abe8df56d60cc7e6c1b.png",
+    "index.html": "/CLIPCRAZE/index.html",
+    "main.79de36a6.css.map": "/CLIPCRAZE/static/css/main.79de36a6.css.map",
+    "main.eea17dec.js.map": "/CLIPCRAZE/static/js/main.eea17dec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79de36a6.css",
+    "static/js/main.eea17dec.js"
+  ]
+}
