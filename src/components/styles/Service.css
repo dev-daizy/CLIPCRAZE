@@ -1,0 +1,55 @@
+/* Default styles for both mobile and desktop */
+.container {
+    width: 100%;
+  }
+  
+  /* Styles for desktop-only div */
+  .desktop-only {
+    display: block;
+  }
+  
+  /* Styles for mobile-only div */
+  .mobile-only {
+    display: none;
+  }
+  
+  .services h2 {
+    display:list-item;
+    border-top-right-radius:50%;
+    border-bottom-right-radius:50%;
+    text-transform: uppercase;
+    background-color: rgb(255, 0, 255);
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  .services p {
+   font-style: italic;
+   color: #0141ff;
+  }
+  .animation{
+    animation: imgUp 0.7s linear infinite alternate;
+  }
+  @keyframes imgUp{
+    to{
+      transform: translateY(-10px);
+    }
+  }
+
+  
+  /* Media query for mobile view */
+  @media screen and (max-width: 767px) {
+    .desktop-only {
+      display: none;
+    }
+    
+    .mobile-only {
+      display: block;
+    }
+    .services h2{
+      background-color: transparent;
+      
+    }
+    .services h2:hover {
+      color: blue; 
+    }
+  }
